@@ -11,9 +11,9 @@ sections:
     text: >
       Trang web đọc truyện online miễn phí, tổng hợp nơi chia sẻ các truyện tranh hay nhất hiện nay
     actions:
-      - label: Get started
+      - label: Đọc truyện tranh
         altText: ''
-        url: /
+        url: https://hangtruyen.net
         showIcon: false
         icon: arrowRight
         iconPosition: right
